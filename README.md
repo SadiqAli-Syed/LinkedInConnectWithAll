@@ -18,18 +18,6 @@
 
 ### Steps:
 
-1. **Clone the repository**
-
-2. **cd LinkedInConnectWithAll**
-
-3. **npm install**
-
-4. **npx wxt build -b chrome**
-
-5. **Load the extension to your Browser**
-
-6. **Visit www.Linkedin.com/mynetwork and click the "Connect with All" Button**
-
-7. And the **Holy Grail**, this stuff **works on my machine**,
-8. The above steps were not verified on a different PC so, You may need to configure your machine on your end, maybe **check/reinstall** packages and **ask** ChatGPT!.
-
+1. **Download the Files**
+2. **Load(UnPacked) them in chrome://Extentions as a Developer**
+3. **You are ready to go!.**

@@ -18,6 +18,7 @@
 
 ### Steps:
 
-1. **Download the Files**
-2. **Load(UnPacked) them in chrome://Extentions as a Developer**
-3. **You are ready to go!.**
+1. **Download the Latest release**
+2. **Extract the Files for Zip File**
+3. **Load(UnPacked) the extracted folder in chrome://Extentions as a Developer**
+4. **You are ready to go!.**
